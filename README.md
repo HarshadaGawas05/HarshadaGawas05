@@ -29,7 +29,4 @@
 - Connect on LinkedIn: [Harshada Gawas](https://www.linkedin.com/in/harshada-gawas/)   
 - Email: **harshadagawas95@gmail.com**  
 
----
-
-<!-- Optional GitHub stats / badges -->  
-![Harshada’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshadaGawas05&show_icons=true&theme=radical)  
+---  
