@@ -31,5 +31,6 @@
 
 ## 📊 Activity Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshadaGawas05&theme=github_dark)
+
 ---  
