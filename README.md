@@ -29,8 +29,4 @@
 - Connect on LinkedIn: [Harshada Gawas](https://www.linkedin.com/in/harshada-gawas/)   
 - Email: **harshadagawas95@gmail.com**  
 
-## 📊 Activity Overview
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshadaGawas05&theme=github_dark)
-
 ---  
